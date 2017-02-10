@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_a9977c7871bfe2bea9390de79deb321b9f4a4317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_a7f97c3f6fa29947d04f109d56337ae62b6b0f09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_ccb97d79549db3ce3408adbf072b43347853f8ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_8f98d8d7864de60d3a6b406c428c299ad3c1b43e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_764da806e51998848bd4632f843f8def7924b766\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_27b6e6edd750b4ab197f72a38f882ddaee8b906b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_69bfd81f9be19c121557d7b0e4cd1931f5c23cbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_54827de2dcbab86254114a3b30874a1057569d2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_c5aba07ff0dd322d99ef26e1071bebbb537a7f3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_a9cca4ff847ef2f4badb51662d9b27391a122ee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_fe7f13866584cc46bf46bc163e871837be3f043b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_81fe76a58efcff9b8bb383417f95524ef8047fcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_94ea8786e69c22323d9909aefbabce8170485817\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b04953d64196f497a1690317f5bfbf3ecd933ff0">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bcaca180828b3dca0916e83417f761c7ba99b5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8fcd1d5e186b1a61a7548ee2550629d87df099c">
+        <dex dex="C:\Users\Orca\AndroidStudioProjects\IWasThere\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e7998c1c70ba8484af967bca4d273440ac51dc28\classes.dex" />
+    </item>
+
+</items>

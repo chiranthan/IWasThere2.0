@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_dark"
+    android:fitsSystemWindows="true"
+    android:layout_gravity="center"
+    android:windowIsTranslucent = "true"
+    android:elevation="20dp">
+
+    <Button
+        android:text="No"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/no"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:background="@android:color/holo_red_light"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:onClick="onCancel" />
+
+    <Button
+        android:text="Yes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/yes"
+        android:elevation="0dp"
+        android:background="@android:color/holo_green_light"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="@dimen/fab_margin"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Are you sure you want to delete this location?"
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_gravity="top"
+        android:id="@+id/confirmMsg"
+        android:layout_alignEnd="@+id/no"
+        android:layout_alignStart="@+id/yes"
+        android:textAppearance="@android:style/TextAppearance.Material.Medium"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif"
+        android:layout_margin="@dimen/fab_margin"/>
+
+</android.support.design.widget.CoordinatorLayout>
