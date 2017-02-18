@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.location.Location;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
@@ -27,6 +28,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
@@ -131,6 +133,11 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         TextView temp = (TextView) view;
         //Snackbar.make(view, "You clicked on " + temp.getText(), Snackbar.LENGTH_LONG).setAction("Action", null).show();
         //Toast.makeText(this, temp.getText() +  "" + i, Toast.LENGTH_SHORT).show();
+        Location loc_to_maps = locationMap.get(temp.getText());
+        Double lon_to_maps = loc_to_maps.getLongitude();
+        Double lat_to_maps = loc_to_maps.getLatitude();
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:<" + lat_to_maps  + ">,<" + lon_to_maps + ">?q=<" + lat_to_maps  + ">,<" + lon_to_maps + ">(" + temp.getText() + ")"));
+        startActivity(intent);
     }
 
     @Override
@@ -142,7 +149,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         deleteLocIntent.putExtra("LocName", locationName);
         startActivityForResult(deleteLocIntent, 1001);
 
-        return false;
+        return true;
     }
 
     @Override
